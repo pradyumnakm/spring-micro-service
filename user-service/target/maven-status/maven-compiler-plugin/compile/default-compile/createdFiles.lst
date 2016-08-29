@@ -1,0 +1,4 @@
+com/prady/user/UserRepository.class
+com/prady/user/UserRestService.class
+com/prady/user/User.class
+com/prady/user/UserServer.class
